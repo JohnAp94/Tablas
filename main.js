@@ -16,7 +16,7 @@ while (verificador === true) {
         alert(`Correcto! ${user}, tienes ${puntos} puntos, sigue adelante`)
     }
     else {
-        alert(`Incorrecto ${user}, perdiste ${puntos}, debes seguir practicando`)
+        alert(`Incorrecto ${user}, perdiste ${puntos} puntos, debes seguir practicando`)
         verificador = false
     }
 }
